@@ -1,0 +1,34 @@
+project:
+  type: book
+
+engine: julia
+
+book:
+  title: "Trail Notes"
+  author: "John Verzani, South Mountain Conservancy"
+  date: now
+  downloads: [pdf]
+  search: true
+  repo-url: https://somocon.org
+  repo-branch: main
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - history.qmd
+    - construction.qmd
+    - maintenance.qmd
+
+format:
+  html:
+    theme: spacelab
+    number-depth: 3
+    toc-depth: 3
+    link-external-newwindow: true
+    include-after: <script  src="https://cdn.jsdelivr.net/gh/yasserelsaid/chatbot@v0.1.4/index.min.js"  data-chatbotId="index-pdf-k527qtaap" ></script>
+  pdf:
+    toc: true
+    number-sections: true
+
+execute:
+  error: true
+  freeze: false # auto
