@@ -1,3 +1,0 @@
-module TrailNotes
-
-end
