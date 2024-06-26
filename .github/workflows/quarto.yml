@@ -31,7 +31,7 @@ jobs:
       - run: julia --project -e 'using Pkg; ENV["PYTHON"]=""; Pkg.add("PyCall"); Pkg.build("PyCall"); Pkg.instantiate(); '
 
       # setup Python / Jupyter
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
       - run: pip install jupyter
