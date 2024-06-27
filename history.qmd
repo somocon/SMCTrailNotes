@@ -109,8 +109,7 @@ The Lenape trail runs through the Mayapple section and continues northward towar
 
 ::: {#fig-mayapple-lenape layout-ncol=2}
 
-![Lenape near Mayapple fields, before](trail_work_crew/mayapple-lenape-before130
-.jpg)
+![Lenape near Mayapple fields, before](trail_work_crew/mayapple-lenape-before.jpg)
 
 ![Lenape near Mayapple fields, before](trail_work_crew/mayapple-lenape-after.jpg)
 
