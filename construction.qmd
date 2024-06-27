@@ -11,7 +11,7 @@ nothing
 
 ## Sustainable trails
 
-Since 2007 the South Mountain Conservancy has incorporated several new miles of trails within the 50+ miles of trails. These new trails have been built with sustainability in mind. What makes sustainability an issue is *water erosion*. A failure to account for water flow can quickly turn a trail in good shape into a disaster.
+Since 2007 the South Mountain Conservancy, primarily through the work of its Trail Work Crew, has incorporated several new miles of trails within the 50+ miles of trails. These new trails have been built with sustainability in mind. What makes sustainability an issue is *water erosion*. A failure to account for water flow can quickly turn a trail in good shape into a disaster.
 
 In the following, we mention a few terms related to trails:
 
@@ -20,6 +20,19 @@ In the following, we mention a few terms related to trails:
 * outslope -- slope of the trail in the direction *perpendicular* to the trail
 
 Water, when unconstrained, should flow in a sheet manner down a hill following the hill slope. When this water hits the trail, it may run along the trail, not down the hill. This can cause erosion of the trail. Accounting for the various slopes is an important part of trail layout.
+
+
+::: {.callout-note}
+### Water is the enemy of a trail system
+
+Water is the primary enemy of a trail system. Even in its most benign presence, when a trail is muddy, hikers tend to avoid the mud and widen the trail in the process. Even more damaging is when water is concentrated enough and flowing fast enough to cause erosion.
+
+Water can carry sediment. Faster water can carry more sediment. During heavy rain, much of the trail surface can be picked up and moved by fast-flowing water. When water slows, it can not carry the same amount of sediment, and deposition occurs. A single storm can erode a trail section and also quickly fill in areas.
+
+Doing everything possible to ensure flowing water does not run down the length of the trail is the key to having sustainable trails.
+
+
+:::
 
 
 The five essential elements of *sustainable* trails^[*Trail Solutions* IMBA's Guide to Building Sweet Singletrack]:
@@ -122,7 +135,7 @@ The creation of a trail tread involves several steps:
 * move any leaves *uphill* of the intended trail. (These will be used at the end to cover off-trail dirt.)
 * use an adze hoe or McCleod to make the bench cut
 * remove the wedge of dirt needed. Dirt should be broadcast down hill; not lumped into an unnatural pile
-* We aim to remove the *organic* dirt from the tread. Organic dirt holds moisture and leads to mud, not water flow. Organic direct is darker and comes from decomposition. Usually there is a color change.
+* We aim to remove the *organic* dirt from the tread. Organic dirt holds moisture and leads to mud, not water flow.
 * Some rocks may stay -- if large and anchored; others are dug out. It is not recommended to try and fill holes that are made -- it is better to leave large rocks, not large holes.
 * Small roots should be cut; larger ones left. (Though roots which may encourage water flow along the trail should be removed.)
 * Once roughed out, use the McCleod to smooth the trail in the direction of the tread.
@@ -130,11 +143,6 @@ The creation of a trail tread involves several steps:
 * Use the head of the McCleod to tamp down the loose dirt
 * Use the reserved leaves to cover up any dirt and form the downhill edge of the trail
 
-::: {.callout-note}
-#### Trail building is slow
-
-Trail building proceeds at a slow and steady pace. Trying to do too much results in poor, unsustainable trails.
-:::
 
 ::: {.callout-note}
 #### Not what is in the IMBA guide
@@ -147,6 +155,22 @@ The IMBA guide suggests this order:
 * compact the tread.
 
 The order above prioritizes the initial bench cut to give a cleaner edge to the finished trail.
+:::
+
+
+::: {.callout-note}
+#### Trail building is slow
+
+Trail building proceeds at a slow and steady pace. Trying to do too much results in poor, unsustainable trails.
+
+:::
+
+::: {.callout-note}
+#### Organic soil removal
+
+Trail building for the uninitiated might seem easy, just scrape the grass or leaves away and you have a new trail. However, it is much more involved. Beyond managing the layout and the slopes, another  key is the removal of the organic top level of soil. This layer is formed  by the decomposition of leaves and in general is a good thing, as vegetation is likely to grow faster and bigger in organic soil.
+
+However for a trail, we want soil that does not retain water, rather sheds it. We want soil that can compact, and inhibit vegetation. The soil under the organic layer in the SMC is usually clay-ey and is desirable. Organic soil is darker and fecund looking; clay is less dark and compact. When removing the organic, we look for a color change. Depending on location, organic soil can be 1/2 inch to several inches deep.
 :::
 
 

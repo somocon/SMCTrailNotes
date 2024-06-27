@@ -4,14 +4,16 @@ It is believed^[This needs to be confirmed] that the 1902 design served as an in
 
 Likely there were adjustments when Cherry Lane and Brookside Drive were made to be continuous and the deer paddock was removed.
 
-However, it is also likely that the [county map](https://essexcountyparks.org/_media/_data/EssexLocation/SMR-Trail-Map_legal.jpg) from the 1980s(?) reflects the state of the trail system until the 2008 or so when the **SMC Trail Work Crew** was formed by Don Schatz and Michael Feldman July 7th and 8th 2007 with the energy of the Mountain Bike Community. This is part of a followup email to the initial event:
+However, it is also likely that the [county map](https://essexcountyparks.org/_media/_data/EssexLocation/SMR-Trail-Map_legal.jpg) from the 1980s(?) reflects the state of the trail system until 2007 or so when the **SMC Trail Work Crew** was formed by Don Schatz and Michael Feldman July 7th and 8th 2007 with the energy of the Mountain Bike Community.
+
+This is from a followup email to the initial event:
 
 > Both personally and on behalf of the South Mountain Conservancy, I want to thank you for supporting the recent IMBA/Subaru Trail Care Crew visit at South Mountain.  I do not believe the Reservation has ever seen such a positive outpouring of support from the mountain biking and hiking communities.  Clearly, the considerable potential of these groups working together was demonstrated over the weekend of July 7th and July 8th. The fact that important decision makers and County officials were on hand Sunday to see the result of our efforts and participate in the trail building was really great.
 
 > If you are interested in the numbers, we had 20 participants at the Friday VIP reception, 60 students at the TCC Saturday classroom session, 45 trail workers on Saturday afternoon and over 40 trail workers on Sunday morning. The new trail is almost 7/10 of a mile long and took approximately 260 man hours to construct.
 
 
-Sometime over the next several years, the leadership of the Trail Work Crew fell to Dennis Percher and John Verzani, who have carried the effort into 2024.
+Sometime over the next several years, the leadership of the Trail Work Crew fell to Dennis Percher and John Verzani, who have carried the effort forward into 2024.
 
 ## Primary hiking trails of the SMR
 
@@ -30,7 +32,7 @@ There are other connector trails carrying the colors of both trails.
 
 There are loop trails blazed with a rectangular background and a circle of differing color.
 
-## Projects of the Trail Work Crew
+## Projects of the Trail Work Crew, 2007-2023
 
 The Trail Work Crew has constructed or supervised the construction of numerous enhancements to the trail system of the SMR since 2007. The following chronicles the efforts by region and then chronologically. Any ommissions are unintended and corrections are welcome. As possible, before and after images are provided from the county map and the SMC map.
 
@@ -103,6 +105,17 @@ There is a planned re-route of a wet area of the Oakdale trail, but otherwise no
 
 ### Mayapple region
 
+The Lenape trail runs through the Mayapple section and continues northward towards Route 10. An early project was to reroute the trail north of the picnic area. A more recent project was to add an alternate route for the Lenape connecting the Maypple loop to the carriage road that encircle the fields.
+
+::: {#fig-mayapple-lenape layout-ncol=2}
+
+![Lenape near Mayapple fields, before](trail_work_crew/mayapple-lenape-before.jpg)
+
+![Lenape near Mayapple fields, before](trail_work_crew/mayapple-lenape-after.jpg)
+
+Reroutes for the Lenape trail through the Mayapple region
+:::
+
 A large grant allowed the professional construction of several long trail segments. Included in that was the Mayapple Loop trail which added to the east side of the hill a stretch of trail affording a pleasant 2.5 mile loop. (The biking side trail further east was not designed or encouraged by the SMC.)
 
 ::: {#fig-mayapple-loop layout-ncol=2}
@@ -117,6 +130,9 @@ The Mayapple loop added a professionally built eastern portion.
 An 11-acre section of land north of the [Mayapple](https://www.nj.com/news/2009/10/essex_county_touts_17m_open-sp.html) was purchased in 2009. This is now accessible through the professionaly built Mayapple extension trail which stretched  the portion of the Lenape trail in the SMR further north. Further work, not shown on the map, was done to extend the Lenape to Route 10 in coordination with West Orange.
 
 ![Mayapple extension](trail_work_crew/mayapple-extension.jpg)
+
+### Turtle Back region
+
 
 The first project of the Trail Work Crew was a reroute of the Upper Turtle Back trail. The old trail was a fall-line trail and suffered from erosion issues. This project was led by IMBA volunteers. Subsequent work was done to create "five-corners," an intersection of the Turtle Back Bypass, the Turtle Back connector, and the upper Turtle Back trail.
 
@@ -152,11 +168,13 @@ The Reservoir connector trail linked the popular loop around Orange Reservoir wi
 New trail connecting the Orange reservoir trail with parking near the Boy Scout Area in Tulip Springs.
 :::
 
-### Main area of reservation
+### Main area of the reservation
+
+The south-east quadrant of the reservation is easily the most used with its main access points being the Summit field/Crest Drive area, the Locust Grove parking area and the parking for the waterfall, in addition to a few others. We discuss efforts in different regions.
 
 #### Hemlock falls region
 
-Hemlock falls remains a popular attraction. The rerouting of the Lenape Trail approach to Hemlock Falls from the south was an early project and it now gracefully enters following the contour of a natural amphitheater.
+Hemlock falls remains a popular attraction. The rerouting of the Lenape Trail approach to Hemlock Falls from the south was an early project and the trail now gracefully enters following the contour of a natural amphitheater.
 
 ::: {#fig-hemlock-falls-reroute layout-ncol=2}
 
@@ -167,7 +185,7 @@ Hemlock falls remains a popular attraction. The rerouting of the Lenape Trail ap
 Reroute of Lenape Trail as it approaches Hemlock Falls from the south
 :::
 
-The Hemlock falls loop was added following a suggestion by Dave Hogenauer.
+The Hemlock falls loop was added following a suggestion by Dave Hogenauer. It provides a short loop incorporating the water fall.
 
 
 ::: {#fig-hemlock-falls-loop layout-ncol=2}
@@ -269,3 +287,12 @@ The small Swampy extension near Washington Rock allowed a red trail to connect t
 
 Extension of swampy trail towards Locust Grove.
 :::
+
+
+### 2023 onward
+
+As of 2023, the trail system in the South Mountain Reservation is quite mature. Major new trails are unlikely. However, the current trail system -- with over 50 miles of trails -- needs maintenance.
+
+The Trail Work Crew has organized several work days to improve trail sections, primarily along the Lenape trail near the Pingry Trail intersection and between Balls Bluff Trail and the Openwood Trail.
+
+Beginning in 2023, Dave Berry has organized a SWAT team to fix trail issues. This group has spent productive time in the Turtle back area, on the Swampy trail, and on the Lenape trail.
