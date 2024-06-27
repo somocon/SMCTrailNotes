@@ -192,7 +192,7 @@ Trenches are commonly reinforced on the edges with rocks, a common design on the
 
 The width of a trench has a few constraints:
 
-* If a trench is too narrow, leafs will get caught on sides and block water flow
+* If a trench is too narrow, leaves will get caught on sides and block water flow
 * The trench can't be wider than a single step across for a hiker. This means *maybe* 18" maximum.
 * If they are wider than a bicycle wheel can comfortably cross, the bicylists will *often* put in a rock to cross the ford **thereby defeating the purpose** which is for water to flow through the ford.
 
