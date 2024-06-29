@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.556">
+<meta name="generator" content="quarto-1.4.557">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -252,6 +252,32 @@ Water is the enemy of a trail system
 <p>For an example, a fall line trail would have slope equal to the hill slope and would exceed the half rule. A contour trail would have zero slope and would satisfy the half rule. Of course, trails must gain and lose elevation, this rule limits how much elevation can be changed given the hill side.</p>
 <p>The guidelines note that this is <em>still</em> important when the slopes are gentle.</p>
 <p>For very steep hill sides, the slope should still not exceed more than 10-12 degrees, though there are instances where for very short lengths this rule may be ignored.</p>
+<p>A simple rule of thumb is if it takes <span class="math inline">\(x\)</span> steps to walk directly up a hill, and it takes <span class="math inline">\(2x\)</span> steps to walk on a zig zag, the angle of the zig-zag route is less than half that of the direct one. This figure illustrates a possible switch back design with twice the length to walk and an angle less than half the original:</p>
+<pre class="{julia}"><code>#| echo: false
+raw"""
+Why half?
+Let ``\sin(\theta)=1/x``, ``\sin(\gamma) =1/(2x)`` then
+``\sin(2\gamma) = 2\sin(\gamma)*\cos(\gamma) = 2/(2x) * \cos(\gamma) = \sin(\theta)*\cos(\gamma)``
+So ``\sin(2\gamma) &lt; \sin(\theta)``; as ``\sin(x)`` is increasing over ``(0, \pi/2)`` we have ``2\gamma &lt; \theta`` or ``\gamma &lt; \theta/2``.
+"""
+θ = pi/6
+y = 1
+x = 1/sin(θ)
+
+plot(Shape([0,x,0,0],[0,0,y,0]);
+     legend=false, aspect_ratio=:equal,
+     axis=([], false),
+     fill=(:gray, 0.05))
+
+S1 = Plots.scale(Shape([0,x/3, x/3, 2x/3, x/3, x/2, 0, 0],
+                       [0,  0,-1/6,-1/6,  1/4, 1/2, 1, 0]), 2, 1)
+S2 = Shape(S1.x[2:3], S1.y[[2,5]])
+S3 = Shape([S1.x[6], S1.x[6]], [S1.y[6], 1/16])
+plot!(Plots.translate(S1, 3x/2, 0),
+      fill=(:gray, 0.05)
+      )
+plot!(Plots.translate(S2, 3x/2, 0))
+plot!(Plots.translate(S3, 3x/2, 0))</code></pre>
 </section>
 <section id="the-ten-percent-average-guideline" class="level3" data-number="3.1.2">
 <h3 data-number="3.1.2" class="anchored" data-anchor-id="the-ten-percent-average-guideline"><span class="header-section-number">3.1.2</span> 2. The ten percent average guideline</h3>
