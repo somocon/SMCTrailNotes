@@ -21,7 +21,9 @@ The [SMR Trail Guide](https://www.somocon.org/product-category/book/?product_cou
 
 
 ```{julia}
-
+#| echo: false
+#| eval: false
+#| output: false
 lenape_north = """
 lat,long,a,b
 -74.2866646,40.7766004,0,156.9368438720703
