@@ -96,11 +96,23 @@ The maximum grade is the maximum slope of a section of a length more than 10 fee
 
 A grade reversal means varying the slope of the tread from downhill to uphill. Any water flowing along the trail will fall to the changeover where it can be removed off the trail with a knick (semi-circular shaved down section of trail). Grade reversals are laid out when the new trail is built.
 
+
+The US Forest Service^[ See [https://www.fs.usda.gov/t-d/pubs/htmlpubs/htm07232806/page06.htm](https://www.fs.usda.gov/t-d/pubs/htmlpubs/htm07232806/page06.htm)] describes a knick by
+
+> The knick is an effective outsloped drain. Knicks are constructed into existing trails (figure 13). For a knick to be effective, the trail tread must have lower ground next to it so the water has a place to drain. A knick is a shaved down semicircle about 3 meters (10 feet) long that is outsloped about 15 percent in the center (figure 14). Knicks are smooth and subtle and should be unnoticeable to users.
+
+::: {#fig-US-Forest-knick}
+
+![A knick, smooth and subtle and unnoticeable](construction_graphics/US-forest-knick.jpg){{#fig-US-Forest-knick}
+
+: A knick is a trail improvement to shed water without creating an obstacle like a waterbar.
+:::
+
 ### 5. Outslope
 
-Outslope is recommended to be 5 degrees. This encourages water to flow off the trail.
+Outslope is recommended to be 5 percent. This encourages water to flow off the trail.
 
-Of course, one can't outslope the trail tread $5$ degrees if the hill slope is less than $5$ degrees. It isn't advised to put trails on flat ground, as it is difficult to manage water flow.
+Of course, one can't outslope the trail tread $5$ percent if the hill slope is less than $5$ percent. It isn't advised to put trails on flat ground, as it is difficult to manage water flow.
 
 Road construction offers an analogy: a road is crowned online its middle and slopes outward to both edges. This encourages water flow to the edges. At the edges curbing (often Belgian block) is used to constrain the water flow parallel to the road way. If this is not present, erosion at the road edge is common.
 
@@ -132,7 +144,7 @@ annotate!([(-15, 1.5*sin(outslope), "5⁰"),
            (-30, 15, "Benchcut")])
 ```
 
-The figure shows a cross section of the trail. The tread is in red. The 5 degree outslope is about 5 inches over 5 feet, which coincides with the width of the head of the [McLeod](https://en.wikipedia.org/wiki/McLeod_(tool)) and its handle length. This allows eyeballing the correct slope by placing the head on the tread and ensuring the end of the handle is just about over the edge of the head. Even more informally,5 degrees is just about the angle where one feels pressure on the downhill side of ones shoe when pointing in the direction of the trail.
+The figure shows a cross section of the trail. The tread is in red. The 5 degree outslope is about 5 inches over 5 feet, which coincides with the width of the head of the [McLeod](https://en.wikipedia.org/wiki/McLeod_(tool)) and its handle length. This allows eyeballing the correct slope by placing the head on the tread and ensuring the end of the handle is just about over the edge of the head. Even more informally, 5 degrees is just about the angle where one feels pressure on the downhill side of ones shoe when pointing in the direction of the trail.
 
 
 #### Benchcut
@@ -165,7 +177,7 @@ The creation of a trail tread involves several steps:
 
 * move any leaves *uphill* of the intended trail. (These will be used at the end to cover off-trail dirt.)
 * use an adze hoe or McCleod to make the bench cut
-* remove the wedge of dirt needed. Dirt should be broadcast down hill; not lumped into an unnatural pile
+* remove the wedge of dirt needed. Dirt should be broadcast downhill; not lumped into an unnatural pile
 * We aim to remove the *organic* dirt from the tread. Organic dirt holds moisture and leads to mud, not water flow.
 * Some rocks may stay -- if large and anchored; others are dug out. It is not recommended to try and fill holes that are made -- it is better to leave large rocks, not large holes.
 * Small roots should be cut; larger ones left. (Though roots which may encourage water flow along the trail should be removed.)
@@ -203,6 +215,16 @@ Trail building for the uninitiated might seem easy, just scrape the grass or lea
 
 However for a trail, we want soil that does not retain water, rather sheds it. We want soil that can compact, and inhibit vegetation. The soil under the organic layer in the SMC is usually clay-ey and is desirable. Organic soil is darker and fecund looking; clay is less dark and compact. When removing the organic, we look for a color change. Depending on location, organic soil can be 1/2 inch to several inches deep.
 :::
+
+### Steps to manage steeper sections
+
+The trail-work crew has utilized wooden steps over the years, for example at the Tulip Springs Parking Lot. These steps are in their second iteration, as the wood used can wear out over time or with heavy usage.
+
+Since 2025, efforts to build stone steps have been undertaken. Success has come by utilizing very heavy rocks (~200 pounds). There is now a winch to move such rock monsters. The work is slow and one step might take 1-2 or more hours to install, but the expected longevity is much increased over wood.
+
+Anchoring a single stone can be made easier by digging a conical shape in the dirt which allows sufficient points of contact and settling of the heavy stone without anchoring. Multiple steps are typically stacked so that the top stone is perched on a lower stone, the base stone being the largest and well anchored.
+
+Examples are on the Beech Brook Cascade re-route.
 
 
 ## Existing trail
@@ -285,10 +307,6 @@ nothing
 
 ::: {.content-visible unless-format="pdf"}
 
-```{julia}
-#| echo: false
-f(0.75)
-```
 
 :::
 
@@ -343,10 +361,11 @@ Do **not** design new fords so deep that you want to put a rock in the ford to f
 
 ![Example ford dug so deep a rock is placed to step/ride across](construction_graphics/ford-rock-in-center.jpg)
 
-For heavily traversed areas, Belgian block reinforced fords have been used.
+For heavily traversed areas, Belgian block reinforced fords have been used. This is an unnatural look, so should be avoided unless needed.
+
 :::
 
-In addition, fords may gather *sediment* over time, reducing the amount of water that can flow across in a given period of time. This is due to water slowing down at the ford. Slower water can carry less sediment, so when the flow slows, sediment will be dropped.
+In addition, fords may gather *sediment* over time, reducing the amount of water that can flow across in a given period of time. This is due to water slowing down at the ford. Slower water can carry less sediment, so when the flow slows, suspended sediment can be dropped.
 
 Water slowing down can happen for several reasons:
 
@@ -377,18 +396,38 @@ The suggested new ford construction then would be:
 The former leads to a necessary design of a 4-6 inches of depth, more on steeper sections. The latter is different. Groundwater mostly runs between layers of soil: the organic and the more compacted inorganic. When there is groundwater seepage, The depth of the "Y" collector arms should be at least a few inches deeper than this soil boundary.
 
 The arms of the "Y" collector (drainage swales) should be sufficiently off the trail to not be a tripping hazard for walkers. They should run downhill -- not on a contour. They should be a straight as possible. They will likely have vegetation over time or be filled with leaves. When constructing -- like all *off-trail* features -- they are ideally covered with leaves to mask their presence.
+
+If building a ford with a rock crossover, like was done the by the CCC, remember a simple design goal:
+
+> The CCC projects have lasted 100 years, yours should as well
+
+This can be achieved by ensure the rocks utilized are
+
+* large (80+ pounds);
+* well anchored with several inches below the bottom of the ford;
+* chosen to have a large platform for stepping onto
+
+The best stones should be positioned in the center of the trail to encourage users to take them. For popular trails, the crossover should be wide enough so that two people can step over at the same time.
+:::
+
+::: {.callout-note}
+#### Off the trail
+
+To re-iterate---keep the swale off the trail.
+
+There have been a few examples where this hasn't happened and perhaps for good reason, but it really is a poor design choice.
 :::
 
 ### Water bars
 
 Fords allow channeled water to cross over a trail in a perpendicular manner. A *water bar* is used to move water that is flowing *down* the trail off the trail.
 
-Water bars may be constructed of rock or wood, but we use rock harvested on the site to create water bars. This ensure the longest lasting, most natural looking waterbar.
+Water bars may be constructed of rock or wood, but we use rock harvested on the site to create water bars. This ensures the longest lasting, most natural looking waterbar.
 
-The placement of a waterbar considers
+The placement of a waterbar considers:
 
-* a waterbar should capture the waterflow as early as possible
-* if designed well, they should capture all the  water coming down the trail. They need not be spaced close together
+* A waterbar should capture the waterflow as early as possible.
+* If designed well, they should capture all the  water coming down the trail. They need not be spaced close together.
 
 
 The design of a waterbar^[The *AMC'c Complete Guide to Trail Building and Maintenance* is consulted here. Waterbars are not favored in the IMBA book, as knicks and other on-trail drainage provides a better biker experience.]
@@ -408,14 +447,19 @@ quiver!([0.5], [0.2], quiver=([0.0],[0.5]))
 
 * the waterbar is a vertical feature, like the curbing on the road. It does not include a swale in front of it. Swales will only fill in with sediment over time. (This is not necessarily suggested by the AMC, but experience shows otherwise.)
 
-Waterbars are made of rocks. The face of the waterbar should extend up 4 inches.
-(Like the curbing on a road.)
-Ideally rocks can be found to allow for shingling so water does not seep through the interface between two rocks.
+* waterbars should encourage water to drain off the trail. Rather than a swale, the outslope of the tread should be used with a 5 degree outslope.
 
+Waterbars are made of rocks.  Ideally rocks can be found to allow for shingling so water does not seep through the interface between two rocks. The AMC describes two styles: the *cake* style where large flat rocks abut each other giving a place to step on the top of the water bar and a flat face for the water to flow across; the *toast* style uses shingle like rocks (overlapped) and are generally narrower and not meant for stepping on.
 
-The AMC describes two styles: the *cake* style where large flat rocks abut each other giving a place to step on the top of the water bar and a flat face for the water to flow across; the *toast* style uses shingle like rocks (overlapped) and are generally narrower and not meant for stepping on.
+The US Forest Service has some guidance on when waterbars are effective:
 
-::: {#fig-waterbars layout-ncol=2}
+> On grades of less than 5 percent, waterbars are less susceptible to clogging unless they serve a long reach of tread or are constructed in extremely erodible tread material. On steeper grades (15 to 20 percent), waterbars are prone to clogging if they are at less than a 45-degree angle to the trail. Waterbars are mostly useless for grades steeper than 20 percent. At these grades a very fine line exists between clogging the drain and eroding it (and the waterbar) away.
+
+And
+
+> Are waterbars ever useful? Sure. Wood or rock waterbars are useful on foot and stock trails where a tripping hazard is acceptable, especially at grades less than 5 percent. Also consider reinforced or armored grade dips where you don't have much soil to work with and in areas that experience occasional torrential downpours.
+
+::: {#fig-waterbars layout-nrow=2}
 ![Cake](construction_graphics/waterbar-cake.jpg){#fig-cake}
 
 ![Toast](construction_graphics/waterbar-toast.jpg){#fig-toast}
@@ -423,10 +467,22 @@ The AMC describes two styles: the *cake* style where large flat rocks abut each 
 Two waterbar construction styles. (AMC)
 :::
 
+::: {#fig-waterbars-usda layout-nrow=2}
+![Waterbar design](construction_graphics/waterbar-usda.jpg){#fig-waterbar-usda}
 
+![Reinforced grade dip (US Forest Service)](construction_graphics/reinforced-grade-dip.jpg)
 
+: Two waterbar designs from the [United States Forest Service](https://www.fs.usda.gov/t-d/pubs/htmlpubs/htm07232806/page06.htm)
+:::
 
-Waterbars should have rocks *solidly* anchored in place. Anchoring a rock requires a few things: first the rock should be sufficiently large so 6-10 inches of rock can be buried below the surface. Next, dig a "grave" for the rock as tight as possible. Then hammer (with a pick or large rock) pointed rocks on the side of the rock to firm up the placement. Back fill with gravel or smaller rock, then use dirt to cover.
+Some design guidance:
+
+* Pick large enough rocks. Small rocks will not survive over the many years the waterbar is expected to last.
+* The face of the waterbar should extend up 4 inches. (Like the curbing on a road.)
+* The rocks should be well anchored, extending into the ground some 6-10 inches.
+* the rocks should provide a platform for stepping across, as the design encourages walkers to do so. The anchoring should ensure that when a rock is stepped upon, there is no movement of the water bar.
+
+Expanding on this, waterbars should have rocks *solidly* anchored in place. Anchoring a rock requires a few things: first the rock should be sufficiently large so 6-10 inches of rock can be buried below the surface. Next, dig a "grave" for the rock as tight as possible. Then hammer (with a pick or large rock) pointed rocks on the side of the rock to firm up the placement. Back fill with gravel or smaller rock, then use dirt to cover.
 
 ::: {.callout-note}
 #### Anchored
@@ -439,6 +495,15 @@ Rocks placed on the side of a water bar force the users to stay on the trail. If
 For hikers and bikers adding packed dirt to the height of the *downhill* portion of the waterbar allows both to smoothly move uphill. The height of the waterbar is not so high to make it difficult to cross going downhill (yet still tall enough to capture and divert strong waterflow).
 
 In the middle of the trail, it is helpful to have a rock placed that has a top face encouraging stepping on. (The cake method has all it rocks so.)
+
+#### Armored grade dip
+
+The US Forest Service also has directions on armored grade dip (@fig-waterbars-usda) the design of which involves a water bar:
+
+> A variation from the traditional waterbar is the waterbar with riprap tray. The riprap tray is built with rock placed in an excavated trench. The tops of the rocks are flush with the existing tread surface, so they're not an obstacle to traffic. Next, construct a rock waterbar. Use rectangular rocks, chunkers, butted together, not overlapped. Start with your heaviest rock at the downhill side—that's your keystone. Lay rocks in from there until you tie into the bank. Bury two-thirds of each rock at a 45- to 60-degree angle to the trail.
+
+> Add a retainer bar of rock angled in the opposite direction from the waterbar. The downhill edge of the retainer bar is at an angle so it nearly touches the downhill edge of the waterbar (figure 19). Fill the space between the waterbar and retainer with compacted tread material.
+
 
 
 
@@ -453,7 +518,7 @@ The basic design employed by the CCC when putting in a carriage road had downhil
 
 The peak amount of water a swale sees is related to the surface area of the region draining into the swale and the amount of rain falling. The swale must be large enough in cross-sectional area to accommodate peak water flow, otherwise it will be breached.
 
-::: {#fig-breached layout-ncol=2}
+::: {#fig-breached layout-nrow=2}
 
 ![Breach on Hillspur trail](construction_graphics/hillspur-breach.jpg)
 
@@ -544,13 +609,19 @@ The design of swales in the SMR, and elsewhere, at an outlet (a culvert) is to g
 
 However, this design also slows water, which causes sediment -- and  noticeably leaves -- to accumulate some 5-10' uphill of the culvert. Clearing this should also be added to maintenance.
 
+### Reroute?
+
+The US Forest Service offers this guidance on rerouting a trail:
 
 
+> If you've tried various drainage methods and water is still tearing up your trail, it's time to think seriously about rerouting the problem sections. Reroutes are short sections of newly constructed trail. This is your chance to incorporate all the good design features of a rolling contour trail that encourages water to sheet across the trail. Remember the good stuff:
 
-### Principles
+> * Locating the new section of trail on a sideslope
+> * Keeping the trail grade less than half of the grade of the hillside
+> * Building with a full bench cut to create a solid, durable tread
+> * Constructing plenty of grade reversals
+> * Outsloping the tread
+> * Compacting the entire trail tread
+> * Make sure the new section that connects to the old trail has nice smooth transitions—no abrupt turns.
 
-> Rocks
-
-> Tread
-
-> Aesthetic
+> * Some short sections of eroded trails may not be major problems. If the trail surface is rocky—and water, use, and slopes are moderate—this section could eventually stabilize itself. A short section of eroded trail may cause less environmental damage than construction of a longer rerouted section. Weigh your options wisely.
