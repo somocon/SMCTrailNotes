@@ -1,10 +1,10 @@
 # History of the trails
 
-It is believed^[This needs to be confirmed] that the 1902 design served as an inspiration for the trail system, but the original trails were laid out by the CCC in the 1930s.
+It is believed that the 1902 design served as an inspiration for the trail system, but the original trails were laid out by the [CCC in the 1930s](https://mshhistsoc.org/special-places/history-of-the-south-mountain-reservation). (The Olmsted designer were more focused on roadways, such as Crest Drive, and significant landscaping.)
 
-Likely there were adjustments when Cherry Lane and Brookside Drive were made to be continuous and the deer paddock was removed.
+> Roosevelt’s inauguration was on March 4, 1933, and a law authorizing the  CCC was passed by the end of that month. A group of twenty boys and four  army officers arrived on June 2 and constructed a camping area in what is  now the Turtle Back Rock picnic grove. A week later over 100 more boys  arrived, and by the end of that summer the camp was home to 400. ... They  constructed almost all the foot trails and woods roads we have today and  built water drains lined with large stones to help keep them dry. Some of  those drains have since silted in, but many still carry water away from the  trails. (This from a forthcoming history of the reservation [book](https://shelflifebooksrva.com/book/9781467157438) by the late Dave Hogenaeur.
 
-However, it is also likely that the [county map](https://essexcountyparks.org/_media/_data/EssexLocation/SMR-Trail-Map_legal.jpg) from the 1980s(?) reflects the state of the trail system until 2007 or so when the **SMC Trail Work Crew** was formed by Don Schatz and Michael Feldman July 7th and 8th 2007 with the energy of the Mountain Bike Community.
+The [county map](https://essexcountyparks.org/_media/_data/EssexLocation/SMR-Trail-Map_legal.jpg) from the 1980s reflects the state of the trail system until 2007 or so when the **SMC Trail Work Crew** was formed by Don Schatz and Michael Feldman July 7th and 8th 2007 with the energy of the Mountain Bike Community.
 
 This is from a followup email to the initial event:
 
@@ -12,17 +12,22 @@ This is from a followup email to the initial event:
 
 > If you are interested in the numbers, we had 20 participants at the Friday VIP reception, 60 students at the TCC Saturday classroom session, 45 trail workers on Saturday afternoon and over 40 trail workers on Sunday morning. The new trail is almost 7/10 of a mile long and took approximately 260 man hours to construct.
 
-
-Sometime over the next several years, the leadership of the Trail Work Crew fell to Dennis Percher and John Verzani, who have carried the effort forward into 2024.
+Sometime over the next several years, the leadership of the Trail Work Crew fell to Dennis Percher and John Verzani, who have carried the effort forward into 2026.
 
 ## Primary hiking trails of the SMR
 
-The [SMR Trail Guide](https://www.somocon.org/product-category/book/?product_count=36&product_view=list) is a 60-page guide, describing the 50-plus miles of trails in the South Mountain Reservation with details of recommended hikes. What follows is a very brief description.
+The [SMR Trail Guide](https://www.somocon.org/product-category/book/?product_count=36&product_view=list) is a 60-page guide, describing the 50-plus miles of trails in the South Mountain Reservation with details of recommended hikes.
 
-The [Lenape Trail](https://en.wikipedia.org/wiki/Lenape_Trail) was established in 1982 and connects may parks and reservations through Essex County. Its longest section runs through the SMR from Locust Grove to Route 10 (south to north).
+What follows is a very brief description.
+
+The [Lenape Trail](https://en.wikipedia.org/wiki/Lenape_Trail) is a 36-mile trail in Essex County.
+The [New York-New Jersey](https://www.nynjtc.org/ldt-lenape-trail/) Trail Conference has available a [Lenape Trail Guide](https://www.nynjtc.org/wp-content/uploads/2024/11/LenapeTrailGuide_Dec2019.pdf) from which we can read:
+
+> Work on the Lenape Trail began in 1976, spearheaded by Al Kent, a former Trail Coordinator for the Morris County Parks Department. Al wanted the public to experience as many natural resources and points of interest in Essex County as possible, and he strove to connect them through a trail that traversed towns, parks, woodlands, residential areas, and cities along the way. Al completed the blazing of the trail in its original form in 1979.
+
+The longest section of its 36 miles runs through the SMR from Locust Grove to Route 10 (south to north). The trail conference has this [map](https://www.nynjtc.org/wp-content/uploads/2024/11/LenapeTrailGuide_Dec2019_Map7of7.pdf) of the trail as it traverses the SMR as well this [map](https://www.nynjtc.org/wp-content/uploads/2024/11/LenapeTrailGuide_Dec2019_Map6of7.pdf) shows the South Mountain Connector portion that was spearheaded by the conservancy.
 
 ![Lenape Trail](trail_work_crew/lenape-trail.png)
-
 
 In addition to the Lenape trail, the following main trails are blazed
 
@@ -43,7 +48,7 @@ The reservation also has many *carriage roads* with the name of "trail." The Riv
 
 Carriage roads have not been a priority for the Trail Work Crew, though some efforts at water management have been undertaken.
 
-## The main projects of the Trail Work Crew, 2007-2023
+## The main projects of the Trail Work Crew, 2007-2026
 
 The Trail Work Crew has constructed or supervised the construction of numerous enhancements to the trail system of the SMR since 2007. The following chronicles the efforts by region and then chronologically. Any omissions are unintended and corrections are welcome. As possible, before and after images are provided from the county map and the SMC map or [openstreetmap.org](https://www.openstreetmap.org/#map=16/40.7416/-74.3038).
 
@@ -138,7 +143,7 @@ A large grant allowed the professional construction of several long trail segmen
 The Mayapple loop added a professionally built eastern portion.
 :::
 
-An 11-acre section of land north of the [Mayapple](https://www.nj.com/news/2009/10/essex_county_touts_17m_open-sp.html) was purchased in 2009. This is now accessible through the professionally built Mayapple extension trail which stretched  the portion of the Lenape trail in the SMR further north. Further work, not shown on the map, was done to extend the Lenape to Route 10 in coordination with West Orange.
+An 11-acre section of land north of the [Mayapple](https://www.nj.com/news/2009/10/essex_county_touts_17m_open-sp.html) was purchased in 2009. This is now accessible through the professionally built Mayapple extension trail which stretched  the portion of the Lenape trail in the SMR further north. Further work, not shown on the map, was done to extend the Lenape to Route 10 in coordination with West Orange. (It appears on this [map](https://www.nynjtc.org/wp-content/uploads/2024/11/LenapeTrailGuide_Dec2019_Map6of7.pdf).)
 
 ![Mayapple extension](trail_work_crew/mayapple-extension.jpg)
 
@@ -275,7 +280,7 @@ An old parking area dating to when Crest Drive allowed vehicular traffic was rem
 Reroute of Lenape trail near Washington Rock
 :::
 
-The Hogenauer trail was  reclaimed and blazed
+The Hogenauer trail was  reclaimed and blazed (though this will be shifted to avoid property lines in 2026):
 
 ::: {#fig- layout-ncol=2}
 
@@ -299,11 +304,37 @@ The small Swampy extension near Washington Rock allowed a red trail to connect t
 Extension of swampy trail towards Locust Grove.
 :::
 
+#### Lenape trail re-routes
+
+Two major reroutes to the Lenape trail were undertaken in 2024 and 2025.
+
+The first was a reroute below Ball's bluff south of Ball's bluff trail down to the Openwood trail. There were two main phases. The farthest north one moved the trail to a more maintainable path. The second, more major one, involved adding switch backs to avoid a fall-line trail.
+
+
+The second was a reroute at Beech Brook Cascades to avoid two rickety crossings at the Cascades which needed improvements, which were stymied by regulations. The reroute adds about 1/4 mile of trail and crosses the water downstream at a more maintainable site. The work was done by the trail work crew and the SWAT team with a concerted push to create a passable trail by the winter of 2025.
+
+::: {@fig-lenape-reroute-2024}
+
+![Below balls bluff](trail_work_crew/below-balls-bluff-before.jpg)
+
+: Below Ball's bluff reroute of 2024
+:::
+
+
+::: {@fig-lenape-reroute-2025}
+
+![Beech brook](trail_work_crew/beech-brook-before.jpg)
+
+: Beech Brook reroute of 2025
+:::
+
+
+::: {.callout-note}
+
+## SWAT team
+Beginning in 2023, Dave Berry has organized a SWAT team to fix trail issues. This group has spent productive time in the Turtle back area, on the Swampy trail, and on the Lenape trail.
+:::
 
 ### 2023 onward
 
-As of 2023, the trail system in the South Mountain Reservation is quite mature. Major new trails are unlikely. However, the current trail system -- with over 50 miles of trails -- needs maintenance.
-
-The Trail Work Crew has organized several work days to improve trail sections, primarily along the Lenape trail near the Pingry Trail intersection and between Balls Bluff Trail and the Openwood Trail.
-
-Beginning in 2023, Dave Berry has organized a SWAT team to fix trail issues. This group has spent productive time in the Turtle back area, on the Swampy trail, and on the Lenape trail.
+As of 2023, the trail system in the South Mountain Reservation is quite mature. Major new trails are unlikely. However, the current trail system -- with over 50 miles of trails -- needs maintenance. The Lenape trail re-routes mentioed above in 2024 and 2025 would be considered maintenance. As will a proposed re-route of the Hogenauer trail to be undertaken in 2025.
